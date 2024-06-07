@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.a7639f09.css",
+    "main.js": "/personal/static/js/main.46722684.js",
+    "static/js/453.1407b060.chunk.js": "/personal/static/js/453.1407b060.chunk.js",
+    "static/media/symposium.svg": "/personal/static/media/symposium.3b1cbe1d9abb50d60c0f.svg",
+    "static/media/alumni_page.svg": "/personal/static/media/alumni_page.d8d71ca18450ca75b084.svg",
+    "static/media/page1_bg.svg": "/personal/static/media/page1_bg.51a8dce65cfa63f6c4ad.svg",
+    "static/media/Page2_final.svg": "/personal/static/media/Page2_final.aea1cbea48fbd2b97333.svg",
+    "static/media/bg_image4.svg": "/personal/static/media/bg_image4.ad2a5383b8ec684252f0.svg",
+    "static/media/book-background.svg": "/personal/static/media/book-background.10835995cffe8314219c.svg",
+    "static/media/college_rec_image.png": "/personal/static/media/college_rec_image.e9428fecc440775dc67d.png",
+    "static/media/continued.svg": "/personal/static/media/continued.a82fad28c9227664e321.svg",
+    "static/media/thankyoupage.svg": "/personal/static/media/thankyoupage.1503fad0856dbfc7121b.svg",
+    "static/media/cover.svg": "/personal/static/media/cover.eee5337e5e4096147328.svg",
+    "index.html": "/personal/index.html",
+    "static/media/end.svg": "/personal/static/media/end.152fc22689f28d23b4ab.svg",
+    "main.a7639f09.css.map": "/personal/static/css/main.a7639f09.css.map",
+    "main.46722684.js.map": "/personal/static/js/main.46722684.js.map",
+    "453.1407b060.chunk.js.map": "/personal/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7639f09.css",
+    "static/js/main.46722684.js"
+  ]
+}
