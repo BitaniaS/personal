@@ -1,0 +1,143 @@
+// @import '~video.js/src/lib/css/video-js.scss';
+// html{
+//     background-image: url('./book-background.svg'); /* Adjust path as needed */
+//     /* background-size: 100%, 100%; */
+//     background-size: cover;
+//     background-position: center;
+//     background-repeat: no-repeat;
+
+// }
+body {
+    /* position: relative; */
+    width: 100vw;
+    height: 100vh;
+    // justify-content: left;
+    // align-items: top;
+    background-image: url('./book-background.svg'); 
+    /* background-size: 100%, 100%; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    // display: grid;
+    // grid-template-rows: ;
+    // padding-top: 10%;
+    // padding-left: 10%;
+  
+  }
+
+.cover {
+    width: 100%;
+    height: 100%;
+    background-image: url('./cover.svg');
+    box-shadow: 5px 10px 30px 10px rgba(0, 0, 0, 0.6);
+}
+
+.page_1{
+    width: 100%;
+    height: 100%;
+    background-image: url('./page1_bg.svg');
+    box-shadow: 5px 10px 30px 10px rgba(0, 0, 0, 0.6);
+    position: relative;
+    // display:grid !important;
+    // grid-template-rows: 57px 57px 57px 57px 57px !important;
+    // grid-template-columns:repeat(9,60px)!important;
+   
+}
+
+.page_2 {
+    width: 100%;
+    height: 100%;
+    background-image: url('./Page2_final.svg');
+    box-shadow: 5px 10px 30px 10px rgba(0, 0, 0, 0.6);
+}
+
+.page_3{
+    width: 100%;
+    height: 100%;
+    background-image: url('./alumni_page.svg');
+    box-shadow: 5px 10px 30px 10px rgba(0, 0, 0, 0.6);
+}
+
+.page_4{
+    width: 100%;
+    height: 100%;
+    background-image: url('./symposium.svg');
+    box-shadow: 5px 10px 30px 10px rgba(0, 0, 0, 0.6);
+}
+
+.page_5{
+    width: 100%;
+    height: 100%;
+    background-image: url('./continued.svg');
+    box-shadow: 5px 10px 30px 10px rgba(0, 0, 0, 0.6);
+}
+
+.thankyou_page{
+    width: 100%;
+    height: 100%;
+    background-image: url('./thankyoupage.svg');
+    box-shadow: 5px 10px 30px 10px rgba(0, 0, 0, 0.6);
+}
+.end {
+    width: 100%;
+    height: 100%;
+    background-image: url('./end.svg');
+    box-shadow: 5px 10px 30px 10px rgba(0, 0, 0, 0.6);
+}
+
+.page{
+    background-color:white;
+    box-shadow: 5px 10px 20px 10px rgba(0, 0, 0, 0.6);
+    //  overflow: visible;   
+    
+}
+
+.image_player{
+    position: absolute;
+    top:65px;
+    right:50px;
+    height: 160px;
+    width: 300px;
+    cursor: pointer;
+   
+    // z-index: 10;
+    // grid-row:2/5 !important;
+    // grid-column: 5/10 !important;
+
+}
+.page_number{
+    margin-left: 10px;
+    margin-top: 5px;
+
+// .book-wrapper{
+//     width: 100vw;
+//     height: 100vh;
+//     // justify-content: left;
+//     // align-items: top;
+//     background-image: url('./book-background.svg'); 
+//     /* background-size: 100%, 100%; */
+//     background-size: cover;
+//     background-position: center;
+//     background-repeat: no-repeat;
+//     overflow: hidden;
+//     // display: grid;
+//     // grid-template-rows: ;
+//     // padding-top: 10%;
+//     // padding-left: 10%;
+
+// }
+
+}
+.book-container{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    
+    // justify-content: center;
+    
+    // position: absolute; 
+    // right: 0; 
+    // top: 0;
+    // /* z-index: 2000; */
+}
